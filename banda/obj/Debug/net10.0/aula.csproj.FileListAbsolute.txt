@@ -1,0 +1,14 @@
+/Users/thiagoeduardo/Downloads/lista3_final/banda/bin/Debug/net10.0/aula
+/Users/thiagoeduardo/Downloads/lista3_final/banda/bin/Debug/net10.0/aula.deps.json
+/Users/thiagoeduardo/Downloads/lista3_final/banda/bin/Debug/net10.0/aula.runtimeconfig.json
+/Users/thiagoeduardo/Downloads/lista3_final/banda/bin/Debug/net10.0/aula.dll
+/Users/thiagoeduardo/Downloads/lista3_final/banda/bin/Debug/net10.0/aula.pdb
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/aula.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/aula.AssemblyInfoInputs.cache
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/aula.AssemblyInfo.cs
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/aula.csproj.CoreCompileInputs.cache
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/aula.dll
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/refint/aula.dll
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/aula.pdb
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/aula.genruntimeconfig.cache
+/Users/thiagoeduardo/Downloads/lista3_final/banda/obj/Debug/net10.0/ref/aula.dll

@@ -1,0 +1,15 @@
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/bin/Debug/net10.0/biblioteca
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/bin/Debug/net10.0/biblioteca.deps.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/bin/Debug/net10.0/biblioteca.runtimeconfig.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/bin/Debug/net10.0/biblioteca.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/bin/Debug/net10.0/biblioteca.pdb
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/biblioteca.AssemblyInfoInputs.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/biblioteca.AssemblyInfo.cs
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/biblioteca.csproj.CoreCompileInputs.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/biblioteca.sourcelink.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/biblioteca.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/refint/biblioteca.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/biblioteca.pdb
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/biblioteca.genruntimeconfig.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/biblioteca/obj/Debug/net10.0/ref/biblioteca.dll

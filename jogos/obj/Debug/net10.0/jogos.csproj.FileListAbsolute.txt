@@ -1,0 +1,15 @@
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/bin/Debug/net10.0/jogos
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/bin/Debug/net10.0/jogos.deps.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/bin/Debug/net10.0/jogos.runtimeconfig.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/bin/Debug/net10.0/jogos.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/bin/Debug/net10.0/jogos.pdb
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/jogos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/jogos.AssemblyInfoInputs.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/jogos.AssemblyInfo.cs
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/jogos.csproj.CoreCompileInputs.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/jogos.sourcelink.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/jogos.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/refint/jogos.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/jogos.pdb
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/jogos.genruntimeconfig.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/jogos/obj/Debug/net10.0/ref/jogos.dll

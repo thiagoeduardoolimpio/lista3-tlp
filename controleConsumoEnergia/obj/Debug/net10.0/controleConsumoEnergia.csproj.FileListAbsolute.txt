@@ -1,0 +1,15 @@
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/bin/Debug/net10.0/controleConsumoEnergia
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/bin/Debug/net10.0/controleConsumoEnergia.deps.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/bin/Debug/net10.0/controleConsumoEnergia.runtimeconfig.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/bin/Debug/net10.0/controleConsumoEnergia.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/bin/Debug/net10.0/controleConsumoEnergia.pdb
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/controleConsumoEnergia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/controleConsumoEnergia.AssemblyInfoInputs.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/controleConsumoEnergia.AssemblyInfo.cs
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/controleConsumoEnergia.csproj.CoreCompileInputs.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/controleConsumoEnergia.sourcelink.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/controleConsumoEnergia.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/refint/controleConsumoEnergia.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/controleConsumoEnergia.pdb
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/controleConsumoEnergia.genruntimeconfig.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/controleConsumoEnergia/obj/Debug/net10.0/ref/controleConsumoEnergia.dll

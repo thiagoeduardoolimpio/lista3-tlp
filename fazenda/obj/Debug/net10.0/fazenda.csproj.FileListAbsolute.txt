@@ -1,0 +1,15 @@
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/bin/Debug/net10.0/fazenda
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/bin/Debug/net10.0/fazenda.deps.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/bin/Debug/net10.0/fazenda.runtimeconfig.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/bin/Debug/net10.0/fazenda.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/bin/Debug/net10.0/fazenda.pdb
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/fazenda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/fazenda.AssemblyInfoInputs.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/fazenda.AssemblyInfo.cs
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/fazenda.csproj.CoreCompileInputs.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/fazenda.sourcelink.json
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/fazenda.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/refint/fazenda.dll
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/fazenda.pdb
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/fazenda.genruntimeconfig.cache
+/Users/thiagoeduardo/Proj/Faculdade/CS/lista3/fazenda/obj/Debug/net10.0/ref/fazenda.dll
